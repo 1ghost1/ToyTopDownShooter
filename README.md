@@ -22,3 +22,9 @@ You can attach a collider to the player and position it on their weapon to detec
 Enemies: The enemies should wander the environment with a NavMesh. [X] YES but it is a little janky
 Up to you how you do it, as long as it seems like random “roaming” movement. [~] They dont really roam until they detect you, but they will chase you after
 An extra (not required) challenge could be to have the enemies detect when the player is in range, and switch to an attack mode.[X] Yeah I did this instead
+
+
+## Plugins used:
+
+https://github.com/h8man/NavMeshPlus
+https://seanba.itch.io/supertiled2unity
